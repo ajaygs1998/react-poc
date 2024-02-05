@@ -1,0 +1,28 @@
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install @fontsource/roboto  
+
+npm install @mui/icons-material 
+npm install @material-ui/core
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap"
+/>
+
+npm install @mui/styles
+
+
+
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+/>
+
+npm install react-router-dom@latest
+
+
+
+npm install @mui/material
+
